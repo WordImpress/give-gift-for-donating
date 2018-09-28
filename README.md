@@ -28,11 +28,3 @@ A [Give](https://givewp.com) Addon which allows you to add a file to any Give do
 
 ![GGFD Metabox](assets/ggfd-email-receipt.jpg)
 
-## About WordImpress
-
-![WordImpress.com](https://github.com/WordImpress/woocommerce-preview-emails/raw/master/assets/img/wordimpress_logo.png)
-
-We build impressive Plugins for your WordPress website. Find out more about us and all our other great plugins at [https://wordimpress.com](https://wordimpress.com)
-
-**HERE'S TO BUILDING THE WEB!**
-
